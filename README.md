@@ -56,5 +56,3 @@ This project aims to predict the outcomes of UEFA Euro Championship matches usin
 [False Negative, True Negative]]
 
 
-## Conclusion
-This project demonstrates an effective approach to predicting match outcomes in the UEFA Euro Championship using machine learning techniques. The combination of historical data analysis, feature engineering, and advanced modeling provides insightful predictions that can be valuable for analysts, fans, and betting enthusiasts.
