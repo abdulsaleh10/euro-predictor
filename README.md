@@ -48,9 +48,9 @@ This project aims to predict the outcomes of UEFA Euro 2021 Championship matches
 - **predictions_euro_2021.csv:** CSV file containing match predictions and actual results.
 
 ## Results Summary
-- **Model Accuracy:** 85% 
-- **Model Precision:** 82%
-- **Confusion Matrix:**
+**Model Accuracy:** 85%  
+**Model Precision:** 82%  
+**Confusion Matrix:**
 
 [[51  8]  
  [ 7 36]]
