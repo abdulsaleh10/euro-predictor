@@ -49,7 +49,7 @@ This project aims to predict the outcomes of UEFA Euro 2021 Championship matches
 
 ## Results Summary
 - **Model Accuracy:** 85% 
-- **Model Precision:** 87%
+- **Model Precision:** 82%
 - **Confusion Matrix:**
 
 [[True Positive, False Positive],  
