@@ -52,7 +52,10 @@ This project aims to predict the outcomes of UEFA Euro 2021 Championship matches
 - **Model Precision:** 82%
 - **Confusion Matrix:**
 
-[[True Positive, False Positive],  
-[False Negative, True Negative]]
+[[51  8]  
+ [ 7 36]]
+
+[[True Positive, False Positive]  
+ [False Negative, True Negative]]
 
 
