@@ -1,7 +1,7 @@
-# UEFA Euro Championship Match Outcome Prediction
+# UEFA Euro 2021 Championship Match Outcome Prediction
 
 ## Project Overview
-This project aims to predict the outcomes of UEFA Euro Championship matches using historical match data. The prediction model is built using the XGBoost classifier, enhanced with various features derived from match statistics and team performance metrics. The project involves data scraping, cleaning, feature engineering, and model training and evaluation.
+This project aims to predict the outcomes of UEFA Euro 2021 Championship matches using historical match data. The prediction model is built using the XGBoost classifier, enhanced with various features derived from match statistics and team performance metrics. The project involves data scraping, cleaning, feature engineering, and model training and evaluation.
 
 ## Technologies Used
 - **Python**
@@ -41,8 +41,8 @@ This project aims to predict the outcomes of UEFA Euro Championship matches usin
 - Confusion matrix, accuracy, and precision scores are printed for evaluation.
 
 ## Key Files
-- **data_collection.py:** Script for scraping and preprocessing match data.
-- **prediction_model.py:** Script for feature engineering, model training, and evaluation.
+- **scraping.py/scraping.ipynb:** Script for scraping and preprocessing match data.
+- **predictor.py/predictor.ipynb:** Script for feature engineering, model training, and evaluation.
 - **matches.csv:** CSV file containing the processed match data.
 - **matches_rolling.csv:** CSV file containing match data with rolling averages.
 - **predictions_euro_2021.csv:** CSV file containing match predictions and actual results.
